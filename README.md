@@ -1,10 +1,15 @@
-# Job_applying_accelerator
-Web application that helps student and job seeker in their process of finding new job, the idea was inspired when I started my massive search for a Data science internship.
+# Job Hunter
 
-the mean goal of this project is to help student, job seeker  to optimize the time spent in their job applications, The project focus on the  idea of automatic generation of job application.
+We can define this Web application as applying accelerator tool that helps student and job seeker in their process of finding new job, the idea was inspired when I started my massive search for a Data science internship/traineeship this year.
 
-the app create , edit, and generate a cover letter and a resume adapted to the job description, the user can give the link of job offre (or linkedin search link) and his information as input (just the fist time) and then the app gives as output the Resume and the cover letter correspond to this offre. 
+The mean goal of this project is to help student, job seeker to optimize the time spent in their job applications, The project focus on the  idea of automatic generation of job application, getting as much information about the campanies, job, skills, Technologies, frameworks needed for target postion.
 
-the idea of applying Deep learning in this project is achieving the goal of understanding the job description, and then extract the key words to create the list of skills needed, the job sector, type , requirement...etc. we try to mach this information with the skills  of the job seeker (user) 
+The app create , edit, costumize, and generate a cover letter and a resume adabted to the job description, the user can give the link of job offre (or linkedin search link) and his information as input and then the app gives as output the Resume and the cover letter correspond to this offer. 
 
-Our first prototype work perfectly until now, and we are working on new challenges.
+The idea of applying Deep learning in this project is :
+            - Achieving the goal of understanding the job description, 
+            - Extract the key words to create the list of required skills, the job sector, type, Level of education...etc. 
+            - mach the extracted information with the skills of the job seeker (user).
+            - Generate text using OpenAI GP-2 for our fist prototype.
+
+
