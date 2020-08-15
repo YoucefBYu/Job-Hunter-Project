@@ -30,4 +30,3 @@ Our prototype skrap the data from Linkedin and store it in Google Sheet immediat
 ### Next Challenges 
 - Use the 'user data' to Suggest new skills required for the job that he is interested (Favorite) in.
 - Use the data to make prediction of jobs that he can apply for.
-
