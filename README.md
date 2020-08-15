@@ -8,13 +8,13 @@ The app create , edit, costumize, and generate a cover letter and a resume adabt
 
 The idea of applying Deep learning in this project is :
             
-           ## - Achieving the goal of understanding the job description, 
+- Achieving the goal of understanding the job description, 
             
-           ## - Extract the key words to create the list of required skills, the job sector, type, Level of education...etc. 
+- Extract the key words to create the list of required skills, the job sector, type, Level of education...etc. 
             
-           ## - mach the extracted information with the skills of the job seeker (user).
+- mach the extracted information with the skills of the job seeker (user).
             
-           ## - Generate text using OpenAI GP-2 for our fist prototype.
+- Generate text using OpenAI GP-2 for our fist prototype.
 
 Other challenges we put in our TODO list: 
 -  Extract information from the users uploaded 'Resume' 
