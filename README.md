@@ -6,7 +6,7 @@ The mean goal of this project is to help student and job seeker to optimize the 
 
 The app create , edit, costumize, and generate a cover letter and a resume adabted to the job description, the user can give the link of job offre (or linkedin search link) and his information as input and then the app gives as output the Resume and the cover letter correspond to this offer. 
 
-###The idea of applying Deep learning in this project is :
+### The idea of applying Deep learning in this project is :
             
 - Achieving the goal of understanding the job description, 
             
@@ -19,7 +19,7 @@ The app create , edit, costumize, and generate a cover letter and a resume adabt
 Our prototype skrap the data from Linkedin and store it in Google Sheet immediately, from the data in the G sheet (the job data table we create) we send the information like the name of company, the date of publication, the Job ID, Adress, of to Two Google Docs which are the cover letter and Resume that will be generated. the tags is located in the G DOC Templates will much the information set from the G sheet.
 
 
-###Current Tasks in our TODO list: 
+### Current Tasks in our TODO list: 
 -  Use and Review some data Skraping API that can skrap data from linkedIn.
 -  Build our own linkedin data Skrapper API.
 -  Deploy the first prototype as Web App.
