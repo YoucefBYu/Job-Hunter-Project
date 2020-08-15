@@ -1,8 +1,8 @@
 # Job Hunter
 
-We can define this Web application as applying accelerator tool that helps student and job seeker in their process of finding new job, the idea was inspired when I started my massive search for a Data science internship/traineeship this year.
+We can define this project as a job applying accelerator tool that helps student and job seeker in their journey of job hunting, the idea was inspired when we started our massive search for a Data science internship/traineeship this year.
 
-The mean goal of this project is to help student, job seeker to optimize the time spent in their job applications, The project focus on the  idea of automatic generation of job application, getting as much information about the campanies, job, skills, Technologies, frameworks needed for target postion.
+The mean goal of this project is to help student and job seeker to optimize the time spent in their job applications, The project focus on the  idea of automatic generation of job application, getting as much information about the campanies, job, skills, Technologies, frameworks needed for target postion.
 
 The app create , edit, costumize, and generate a cover letter and a resume adabted to the job description, the user can give the link of job offre (or linkedin search link) and his information as input and then the app gives as output the Resume and the cover letter correspond to this offer. 
 
