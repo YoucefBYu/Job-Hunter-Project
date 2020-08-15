@@ -27,7 +27,7 @@ Our prototype skrap the data from Linkedin and store it in Google Sheet immediat
 -  Create graph data of the extracted data in Neo4j Graph database.
 
 
-###Next Challenges 
+### Next Challenges 
 - Use the 'user data' to Suggest new skills required for the job that he is interested (Favorite) in.
 - Use the data to make prediction of jobs that he can apply for.
 
