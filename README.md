@@ -1,4 +1,4 @@
-# Job Hunter [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Are%20looking%20for%20internship,%20first%20job%20you%20want%20to%20apply%20for%20100%20offer%20everey%20day%20check%20our%20website%20to%20accelerate%20your%20job%20huntingurl=www.job-hunter.io&via=Jobhunter=bootstrap,design,templates,blocks,developers)
+# Job Hunter [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Are%20looking%20for%20internship,%20first%20job%20you%20want%20to%20apply%20for%20100%20offer%20everey%20day%20check%20our%20website%20to%20accelerate%20your%20job%20hunting%20&url=www.job-hunter.io&via=Jobhunte&hashtag=Job_Hunter,Intelligent Job finding accelerator, AI service)
 
 We can define this project as a job applying accelerator tool that helps students and job seekers in their journey of job hunting, the idea was inspired when we started our massive search for a Data science internship/traineeship this year.
 
