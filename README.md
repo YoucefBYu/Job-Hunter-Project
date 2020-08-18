@@ -34,8 +34,7 @@ Our prototype scrapes the data from Linkedin and stores it in Google Sheet immed
 - Use the 'user data' to Suggest new skills required for the job that he is interested in (Favorite).
 - Use the data to make predictions of jobs that he can apply for.
 
-
-## Note :
+### Note :
 in this repository we share the datasets and processing code only in order to:
 - help the community to get new NLP craftred dataset.
 - accelerate the the work on the data processing and model building.
