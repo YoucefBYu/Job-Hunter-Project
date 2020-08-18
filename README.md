@@ -39,4 +39,3 @@ Our prototype scrapes the data from Linkedin and stores it in Google Sheet immed
 in this repository we share the datasets and processing code only in order to:
 - help the community to get new NLP craftred dataset.
 - accelerate the the work on the data processing and model building.
-- 
