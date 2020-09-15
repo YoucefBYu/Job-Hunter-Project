@@ -12,13 +12,11 @@ The extracted job data and the user data (Resume, Profile) used as input of the 
 
 ### The ideas of applying NLP Deep learning in this project are :
             
-- Achieving the goal of understanding the job description, 
+- Achieving the goal of understanding the job description. (done) 
             
-- Extract the keywords to create the list of required skills, the job sector, type, Level of education...etc. 
-            
-- match the extracted information with the skills of the job seeker (user).
-            
-- Generate text using OpenAI GP-2 for our fist prototype.
+- Extract the keywords to create the list of required skills, the job sector, type, Level of education...etc. (done)            
+- Match the extracted information with the skills of the job seeker (user).(in progress)         
+- Generate text using OpenAI GP-2 for our fist prototype.(in progress)
 
 Our prototype scrapes the data from Linkedin and stores it in Google Sheet immediately, from the data in the G sheet (the job data table we create) we send the information like the name of the company, the date of publication, the Job ID, Adress, of to Two Google Docs which are the cover letter and 'Resume' that will be generated. the tags are located in the G DOC Templates will much the information set from the G sheet.
 
